@@ -33,7 +33,7 @@ Dalam sistem e-commerce, pelanggan mendapatkan diskon **10%** jika total belanja
 5. Tampilkan `diskon` dan `total_bayar`  
 
 ### File  
-`diskon_belanja.py`
+`ProgramHitungRataRataDanCekStatusKelulusan.ipynb`
 
 ---
 
