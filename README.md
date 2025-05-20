@@ -1,6 +1,3 @@
-# AlgoritmaDanPemograman-BisDig
-TugasUTS
-
 
 # DasarAlgoritmaDanPemrograman-BisDig
 
@@ -12,7 +9,7 @@ Setiap studi kasus terdiri dari:
 
 ---
 
-## STUDI KASUS 1: Diskon E-Commerce
+## STUDI KASUS 1: DISKON E-COMMERCE
 
 ### Studi Kasus  
 Dalam sistem e-commerce, pelanggan mendapatkan diskon **10%** jika total belanja **> Rp 500.000**.
@@ -33,11 +30,11 @@ Dalam sistem e-commerce, pelanggan mendapatkan diskon **10%** jika total belanja
 5. Tampilkan `diskon` dan `total_bayar`  
 
 ### File  
-`ProgramHitungRataRataDanCekStatusKelulusan.ipynb`
+`ProgramHitungTotalBayarSetelahDiskon.ipynb`
 
 ---
 
-## 📌 Soal 2: Rata-Rata Nilai & Status Kelulusan
+## STUDI KASUS 2: RATA-RATA NILAI & STATUS KELULUSAN
 
 ### Studi Kasus  
 Seorang siswa ingin mengetahui apakah ia **lulus** berdasarkan rata-rata dari **3 mata pelajaran**.  
@@ -61,11 +58,11 @@ Kriteria lulus: **rata-rata ≥ 75**.
 4. Cetak status kelulusan  
 
 ### File  
-`cek_kelulusan.py`
+`ProgramHitungRataRataDanCekStatusKelulusan.ipy`
 
 ---
 
-## 📌 Soal 3: Faktorial dengan Fungsi Rekursif
+## STUDI KASUS 3: FAKTORIAL DENGAN FUNGSI REKURSIF
 
 ### Studi Kasus  
 Buat **fungsi** untuk menghitung **faktorial** dari suatu bilangan menggunakan **metode rekursif**.
@@ -85,11 +82,11 @@ Buat **fungsi** untuk menghitung **faktorial** dari suatu bilangan menggunakan *
 3. Panggil `faktorial(n)` dan cetak hasil  
 
 ### File  
-`faktorial_rekursif.py`
+`ProgramMenghitungNilaiRekusi.ipynb`
 
 ---
 
-## 📌 Soal 4: Input Nilai 5 Siswa & Cari Nilai Tertinggi
+## STUDI KASUS 4: INPUT NILAI 5 SISWA & CARI NILAI TERTINGGI
 
 ### Studi Kasus  
 Seorang guru ingin program yang menerima **5 nilai siswa**, lalu menampilkan **nilai tertinggi** dan **siswa ke-berapa** yang mendapatkannya.
@@ -112,11 +109,11 @@ Seorang guru ingin program yang menerima **5 nilai siswa**, lalu menampilkan **n
 5. Cetak `nilai_tertinggi` dan `posisi`  
 
 ### File  
-`nilai_tertinggi.py`
+`ProgramInputNilaiSiswa.ipynb`
 
 ---
 
-## 📌 Soal 5: Hitung Total Harga 3 Barang
+## STUDI KASUS 5: HITUNG TOTAL HARGA 3 BARANG
 
 ### Studi Kasus  
 Seorang kasir toko ingin program sederhana untuk menghitung **total harga** pembelian **3 barang** dan menampilkan totalnya.
@@ -135,9 +132,6 @@ Seorang kasir toko ingin program sederhana untuk menghitung **total harga** pemb
 3. Cetak `total` dengan format dua desimal dan pemisah ribuan  
 
 ### File  
-`kasir_sederhana.py`
+`ProgramKasirSederhana.ipynb`
 
----
-
-## Struktur Folder yang Direkomendasikan
 
